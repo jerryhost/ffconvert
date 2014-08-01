@@ -7,8 +7,8 @@ Script use ffmpeg to convert file for mac user.
 - ffmpeg
 
 ## Usage:
-$ chmod +x convert-input.sh
-$ ./convert-input.sh
+- `chmod +x convert-input.sh`
+- `./convert-input.sh`
 - 1. input source file path (ex: /path/to/soruce)
 - 2. input source file type (ex: mp4 wmv ...etc)
 - 3. input dest file path   (ex: /path/to/dest) 
